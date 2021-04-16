@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(167, 141, 192);
+}
+
+.font {
+    text-align: center;
+    font-size: xx-large;
+    border: 2px solid black;
+    background-color: blueviolet;
+    margin-top: 1%;
+}
+
+.font2 {
+    text-align: center;
+    font-size: xx-large;
+    border: 2px solid black;
+    background-color: rgb(65, 35, 172);
+    margin-top: 1%;
+}
